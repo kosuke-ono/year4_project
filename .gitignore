@@ -2,8 +2,9 @@ data/
 runs/
 .venv/
 __pycache__/
-squat/
 *.MOV
 *.mp4
 *.pt
 .DS_Store
+3D-Shot-Posture-Dataset/
+football/

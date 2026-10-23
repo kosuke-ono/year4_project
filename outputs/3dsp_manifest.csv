@@ -1,0 +1,201 @@
+shot,id,previous_id,shooter_tracklet_id,gametime,label,annotated_position,start_position,end_position,position_step,team,visibility,game,half,time,n_img,n_posture
+00001,00001,2,8,1 - 05:47,Shots on target,347458,346958,347558,40,away,visible,2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,1,5:47,20,20
+00002,00002,3,3,1 - 07:47,Shots off target,467037,466537,467137,40,away,visible,2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,1,7:47,20,20
+00003,00003,7,13,1 - 22:03,Shots on target,1323355,1322855,1323455,40,away,visible,2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,1,22:03,20,20
+00004,00004,8,5,1 - 24:00,Shots off target,1440175,1439675,1440275,40,home,visible,2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,1,24:00:00,20,20
+00005,00005,9,9,2 - 04:56,Shots on target,296565,296065,296665,40,away,visible,2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,2,4:56,20,20
+00006,00006,12,5,2 - 22:04,Shots on target,1324332,1323832,1324432,40,home,visible,2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,2,22:04,20,20
+00007,00007,13,4,2 - 30:44,Shots off target,1844453,1843953,1844553,40,away,visible,2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,2,30:44:00,20,20
+00008,00008,14,5,2 - 32:57,Shots off target,1977324,1976824,1977424,40,home,visible,2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,2,32:57:00,20,20
+00009,00009,15,9,2 - 34:36,Shots on target,2076405,2075905,2076505,40,away,visible,2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,2,34:36:00,20,20
+00010,00010,24,4,2 - 14:59,Shots on target,899982,899482,900082,40,away,visible,2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,2,14:59,20,20
+00011,00011,26,4,2 - 37:37,Shots on target,2257603,2257103,2257703,40,home,visible,2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,2,37:37:00,20,20
+00012,00012,29,5,2 - 47:06,Shots on target,2826007,2825507,2826107,40,home,visible,2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,2,47:06:00,20,20
+00013,00013,32,11,1 - 07:06,Shots off target,426712,426212,426812,40,away,visible,2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,1,7:06,20,20
+00014,00014,37,12,1 - 26:15,Shots off target,1575527,1575027,1575627,40,away,visible,2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,1,26:15:00,20,20
+00015,00015,40,15,1 - 33:07,Shots off target,1987444,1986944,1987544,40,away,visible,2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,1,33:07:00,20,20
+00016,00016,41,8,1 - 38:58,Shots off target,2338688,2338188,2338788,40,away,visible,2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,1,38:58:00,20,20
+00017,00017,42,7,2 - 14:17,Shots off target,857251,856751,857351,40,away,visible,2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,2,14:17,20,20
+00018,00018,47,9,1 - 03:34,Shots on target,214372,213872,214472,40,home,visible,2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,1,3:34,20,20
+00019,00019,48,15,1 - 07:37,Shots off target,457121,456621,457221,40,home,visible,2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,1,7:37,20,20
+00020,00020,50,8,2 - 04:53,Shots off target,293671,293171,293771,40,home,visible,2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,2,4:53,20,20
+00021,00021,56,11,1 - 10:00,Shots off target,600642,600142,600742,40,home,visible,2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,1,10:00,20,20
+00022,00022,57,3,1 - 14:16,Shots on target,856558,856058,856658,40,away,visible,2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,1,14:16,20,20
+00023,00023,58,7,1 - 14:57,Shots on target,897739,897239,897839,40,away,visible,2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,1,14:57,20,20
+00024,00024,59,2,1 - 17:17,Shots on target,1037697,1037197,1037797,40,home,visible,2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,1,17:17,20,20
+00025,00025,65,7,1 - 28:16,Shots on target,1696307,1695807,1696407,40,away,visible,2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,1,28:16:00,20,20
+00026,00026,67,5,1 - 29:47,Shots on target,1787026,1786526,1787126,40,home,visible,2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,1,29:47:00,20,20
+00027,00027,70,1,1 - 36:07,Shots on target,2167326,2166826,2167426,40,away,visible,2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,1,36:07:00,20,20
+00028,00028,77,11,2 - 04:32,Shots on target,272130,271630,272230,40,away,visible,2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,2,4:32,20,20
+00029,00029,80,7,2 - 12:55,Shots on target,775968,775468,776068,40,away,visible,2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,2,12:55,20,20
+00030,00030,81,9,2 - 13:52,Shots on target,832184,831684,832284,40,home,visible,2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,2,13:52,20,20
+00031,00031,82,1,2 - 15:29,Shots on target,929482,928982,929582,40,away,visible,2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,2,15:29,20,20
+00032,00032,84,5,2 - 17:28,Shots off target,1048261,1047761,1048361,40,away,visible,2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,2,17:28,20,20
+00033,00033,86,11,2 - 21:39,Shots on target,1299536,1299036,1299636,40,away,visible,2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,2,21:39,20,20
+00034,00034,87,2,2 - 27:27,Shots on target,1647162,1646662,1647262,40,away,visible,2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,2,27:27:00,20,20
+00035,00035,88,1,2 - 29:13,Shots on target,1753920,1753420,1754020,40,home,visible,2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,2,29:13:00,20,20
+00036,00036,89,2,2 - 30:04,Shots on target,1804802,1804302,1804902,40,home,visible,2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,2,30:04:00,20,20
+00037,00037,90,11,2 - 35:10,Shots on target,2110741,2110241,2110841,40,away,visible,2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,2,35:10:00,20,20
+00038,00038,91,6,2 - 41:53,Shots off target,2513961,2513461,2514061,40,home,visible,2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,2,41:53:00,20,20
+00039,00039,92,5,1 - 03:41,Shots on target,221233,220733,221333,40,home,visible,2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,1,3:41,20,20
+00040,00040,93,7,1 - 03:45,Shots off target,225308,224808,225408,40,home,visible,2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,1,3:45,20,20
+00041,00041,95,5,1 - 14:03,Shots off target,843353,842853,843453,40,home,visible,2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,1,14:03,20,20
+00042,00042,97,6,1 - 22:27,Shots off target,1347258,1346758,1347358,40,home,visible,2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,1,22:27,20,20
+00043,00043,99,8,1 - 25:12,Shots off target,1512094,1511594,1512194,40,away,visible,2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,1,25:12:00,20,20
+00044,00044,100,8,1 - 28:35,Shots on target,1715707,1715207,1715807,40,away,visible,2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,1,28:35:00,20,20
+00045,00045,104,9,1 - 33:18,Shots off target,1998073,1997573,1998173,40,home,visible,2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,1,33:18:00,20,20
+00046,00046,107,2,1 - 41:17,Shots on target,2477899,2477399,2477999,40,home,visible,2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,1,41:17:00,20,20
+00047,00047,108,8,1 - 42:51,Shots on target,2571261,2570761,2571361,40,home,visible,2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,1,42:51:00,20,20
+00048,00048,110,2,2 - 09:24,Shots on target,564054,563554,564154,40,away,visible,2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,2,9:24,20,20
+00049,00049,113,9,2 - 16:20,Shots on target,980845,980345,980945,40,home,visible,2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,2,16:20,20,20
+00050,00050,118,3,2 - 24:42,Shots off target,1482194,1481694,1482294,40,home,visible,2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,2,24:42:00,20,20
+00051,00051,120,9,2 - 29:48,Shots off target,1788262,1787762,1788362,40,away,visible,2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,2,29:48:00,20,20
+00052,00052,126,3,2 - 39:52,Shots on target,2392690,2392190,2392790,40,home,visible,2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,2,39:52:00,20,20
+00053,00053,127,3,2 - 42:30,Shots off target,2550215,2549715,2550315,40,home,visible,2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,2,42:30:00,20,20
+00054,00054,130,8,2 - 44:51,Shots on target,2691253,2690753,2691353,40,home,visible,2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,2,44:51:00,20,20
+00055,00055,131,1,1 - 08:45,Shots on target,525814,525314,525914,40,home,visible,2015-08-29 - 17-00 Manchester City 2 - 0 Watford,1,8:45,20,20
+00056,00056,134,3,1 - 23:27,Shots on target,1407153,1406653,1407253,40,home,visible,2015-08-29 - 17-00 Manchester City 2 - 0 Watford,1,23:27,20,20
+00057,00057,135,1,1 - 26:32,Shots on target,1592567,1592067,1592667,40,home,visible,2015-08-29 - 17-00 Manchester City 2 - 0 Watford,1,26:32:00,20,20
+00058,00058,137,6,1 - 33:53,Shots on target,2033519,2033019,2033619,40,home,visible,2015-08-29 - 17-00 Manchester City 2 - 0 Watford,1,33:53:00,20,20
+00059,00059,139,11,1 - 43:22,Shots off target,2602513,2602013,2602613,40,home,visible,2015-08-29 - 17-00 Manchester City 2 - 0 Watford,1,43:22:00,20,20
+00060,00060,145,8,2 - 12:55,Shots on target,775515,775015,775615,40,home,visible,2015-08-29 - 17-00 Manchester City 2 - 0 Watford,2,12:55,20,20
+00061,00061,147,1,2 - 15:48,Shots off target,948361,947861,948461,40,home,visible,2015-08-29 - 17-00 Manchester City 2 - 0 Watford,2,15:48,20,20
+00062,00062,149,1,2 - 21:00,Shots on target,1260935,1260435,1261035,40,away,visible,2015-08-29 - 17-00 Manchester City 2 - 0 Watford,2,21:00,20,20
+00063,00063,153,1,2 - 41:24,Shots on target,2484695,2484195,2484795,40,home,visible,2015-08-29 - 17-00 Manchester City 2 - 0 Watford,2,41:24:00,20,20
+00064,00064,154,11,2 - 42:05,Shots on target,2525191,2524691,2525291,40,home,visible,2015-08-29 - 17-00 Manchester City 2 - 0 Watford,2,42:05:00,20,20
+00065,00065,155,9,2 - 42:41,Shots off target,2561966,2561466,2562066,40,away,visible,2015-08-29 - 17-00 Manchester City 2 - 0 Watford,2,42:41:00,20,20
+00066,00066,160,4,1 - 19:23,Shots on target,1163654,1163154,1163754,40,home,visible,2015-09-12 - 14-45 Everton 3 - 1 Chelsea,1,19:23,20,20
+00067,00067,161,7,1 - 21:19,Shots on target,1279977,1279477,1280077,40,home,visible,2015-09-12 - 14-45 Everton 3 - 1 Chelsea,1,21:19,20,20
+00068,00068,163,14,1 - 23:22,Shots off target,1402118,1401618,1402218,40,away,visible,2015-09-12 - 14-45 Everton 3 - 1 Chelsea,1,23:22,20,20
+00069,00069,165,5,1 - 35:09,Shots on target,2109505,2109005,2109605,40,away,visible,2015-09-12 - 14-45 Everton 3 - 1 Chelsea,1,35:09:00,20,20
+00070,00070,167,12,1 - 37:14,Shots on target,2234670,2234170,2234770,40,away,visible,2015-09-12 - 14-45 Everton 3 - 1 Chelsea,1,37:14:00,20,20
+00071,00071,169,3,1 - 39:53,Shots off target,2393772,2393272,2393872,40,away,visible,2015-09-12 - 14-45 Everton 3 - 1 Chelsea,1,39:53:00,20,20
+00072,00072,171,2,1 - 42:08,Shots off target,2528176,2527676,2528276,40,away,visible,2015-09-12 - 14-45 Everton 3 - 1 Chelsea,1,42:08:00,20,20
+00073,00073,172,6,1 - 44:42,Shots off target,2682567,2682067,2682667,40,away,visible,2015-09-12 - 14-45 Everton 3 - 1 Chelsea,1,44:42:00,20,20
+00074,00074,174,15,2 - 05:44,Shots on target,344185,343685,344285,40,away,visible,2015-09-12 - 14-45 Everton 3 - 1 Chelsea,2,5:44,20,20
+00075,00075,178,3,2 - 15:58,Shots off target,958184,957684,958284,40,home,visible,2015-09-12 - 14-45 Everton 3 - 1 Chelsea,2,15:58,20,20
+00076,00076,179,14,2 - 17:46,Shots on target,1066842,1066342,1066942,40,home,visible,2015-09-12 - 14-45 Everton 3 - 1 Chelsea,2,17:46,20,20
+00077,00077,184,12,2 - 36:55,Shots on target,2215436,2214936,2215536,40,home,visible,2015-09-12 - 14-45 Everton 3 - 1 Chelsea,2,36:55:00,20,20
+00078,00078,188,10,1 - 01:21,Shots off target,81502,81002,81602,40,home,visible,2015-09-12 - 17-00 Crystal Palace 0 - 1 Manchester City,1,1:21,20,20
+00079,00079,192,2,1 - 06:34,Shots on target,394002,393502,394102,40,home,visible,2015-09-12 - 17-00 Crystal Palace 0 - 1 Manchester City,1,6:34,20,20
+00080,00080,193,13,1 - 10:43,Shots off target,643100,642600,643200,40,home,visible,2015-09-12 - 17-00 Crystal Palace 0 - 1 Manchester City,1,10:43,20,20
+00081,00081,194,7,1 - 30:58,Shots off target,1858005,1857505,1858105,40,away,visible,2015-09-12 - 17-00 Crystal Palace 0 - 1 Manchester City,1,30:58:00,20,20
+00082,00082,195,9,1 - 31:35,Shots on target,1895282,1894782,1895382,40,away,visible,2015-09-12 - 17-00 Crystal Palace 0 - 1 Manchester City,1,31:35:00,20,20
+00083,00083,197,6,1 - 37:30,Shots off target,2250446,2249946,2250546,40,away,visible,2015-09-12 - 17-00 Crystal Palace 0 - 1 Manchester City,1,37:30:00,20,20
+00084,00084,199,11,2 - 03:43,Shots off target,223135,222635,223235,40,away,visible,2015-09-12 - 17-00 Crystal Palace 0 - 1 Manchester City,2,3:43,20,20
+00085,00085,200,7,2 - 04:24,Shots off target,264217,263717,264317,40,home,visible,2015-09-12 - 17-00 Crystal Palace 0 - 1 Manchester City,2,4:24,20,20
+00086,00086,202,13,2 - 08:52,Shots on target,532002,531502,532102,40,away,visible,2015-09-12 - 17-00 Crystal Palace 0 - 1 Manchester City,2,8:52,20,20
+00087,00087,205,7,2 - 17:23,Shots on target,1043235,1042735,1043335,40,away,visible,2015-09-12 - 17-00 Crystal Palace 0 - 1 Manchester City,2,17:23,20,20
+00088,00088,207,6,2 - 19:12,Shots off target,1152105,1151605,1152205,40,away,visible,2015-09-12 - 17-00 Crystal Palace 0 - 1 Manchester City,2,19:12,20,20
+00089,00089,208,11,2 - 21:29,Shots off target,1289056,1288556,1289156,40,away,visible,2015-09-12 - 17-00 Crystal Palace 0 - 1 Manchester City,2,21:29,20,20
+00090,00090,210,9,2 - 28:31,Shots off target,1711958,1711458,1712058,40,away,visible,2015-09-12 - 17-00 Crystal Palace 0 - 1 Manchester City,2,28:31:00,20,20
+00091,00091,215,8,2 - 47:24,Shots on target,2844777,2844277,2844877,40,home,visible,2015-09-12 - 17-00 Crystal Palace 0 - 1 Manchester City,2,47:24:00,20,20
+00092,00092,217,5,1 - 05:19,Shots on target,319567,319067,319667,40,away,visible,2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,1,5:19,20,20
+00093,00093,219,6,1 - 08:31,Shots off target,511255,510755,511355,40,home,visible,2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,1,8:31,20,20
+00094,00094,224,4,1 - 38:09,Shots on target,2289834,2289334,2289934,40,home,visible,2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,1,38:09:00,20,20
+00095,00095,228,7,1 - 44:29,Shots off target,2669865,2669365,2669965,40,home,visible,2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,1,44:29:00,20,20
+00096,00096,231,4,1 - 47:04,Shots on target,2824881,2824381,2824981,40,home,visible,2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,1,47:04:00,20,20
+00097,00097,232,3,2 - 00:43,Shots off target,43525,43025,43625,40,away,visible,2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,2,0:43,20,20
+00098,00098,234,6,2 - 06:30,Shots on target,390679,390179,390779,40,home,visible,2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,2,6:30,20,20
+00099,00099,237,3,2 - 10:17,Shots on target,617692,617192,617792,40,home,visible,2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,2,10:17,20,20
+00100,00100,238,6,2 - 12:08,Shots off target,728627,728127,728727,40,away,visible,2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,2,12:08,20,20
+00101,00101,239,14,2 - 13:39,Shots off target,819983,819483,820083,40,home,visible,2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,2,13:39,20,20
+00102,00102,240,1,2 - 14:02,Shots off target,842874,842374,842974,40,home,visible,2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,2,14:02,20,20
+00103,00103,241,9,2 - 15:46,Shots on target,946036,945536,946136,40,home,visible,2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,2,15:46,20,20
+00104,00104,242,7,2 - 17:22,Shots off target,1042041,1041541,1042141,40,home,visible,2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,2,17:22,20,20
+00105,00105,247,16,2 - 27:16,Shots on target,1636160,1635660,1636260,40,home,visible,2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,2,27:16:00,20,20
+00106,00106,248,3,2 - 35:48,Shots off target,2148853,2148353,2148953,40,home,visible,2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,2,35:48:00,20,20
+00107,00107,249,13,2 - 37:30,Shots on target,2250660,2250160,2250760,40,home,visible,2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,2,37:30:00,20,20
+00108,00108,250,4,2 - 38:07,Shots on target,2287051,2286551,2287151,40,home,visible,2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,2,38:07:00,20,20
+00109,00109,253,2,1 - 01:02,Shots on target,62510,62010,62610,40,home,visible,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1:02,20,20
+00110,00110,258,8,1 - 08:32,Shots off target,512731,512231,512831,40,home,visible,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,8:32,20,20
+00111,00111,260,10,1 - 12:11,Shots on target,731304,730804,731404,40,home,visible,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,12:11,20,20
+00112,00112,261,9,1 - 19:53,Shots off target,1193908,1193408,1194008,40,home,visible,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,19:53,20,20
+00113,00113,262,10,1 - 21:25,Shots off target,1285743,1285243,1285843,40,away,visible,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,21:25,20,20
+00114,00114,263,8,1 - 36:36,Shots on target,2196696,2196196,2196796,40,home,visible,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,36:36:00,20,20
+00115,00115,264,6,1 - 40:18,Shots on target,2418198,2417698,2418298,40,away,visible,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,40:18:00,20,20
+00116,00116,266,9,1 - 42:32,Shots on target,2552108,2551608,2552208,40,away,visible,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,42:32:00,20,20
+00117,00117,269,8,2 - 06:22,Shots on target,382069,381569,382169,40,home,visible,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,6:22,20,20
+00118,00118,274,11,2 - 12:57,Shots on target,777989,777489,778089,40,home,visible,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,12:57,20,20
+00119,00119,276,7,2 - 16:26,Shots on target,986792,986292,986892,40,home,visible,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,16:26,20,20
+00120,00120,285,12,2 - 31:39,Shots on target,1899818,1899318,1899918,40,home,visible,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,31:39:00,20,20
+00121,00121,287,9,2 - 35:36,Shots on target,2136134,2135634,2136234,40,away,visible,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,35:36:00,20,20
+00122,00122,288,8,2 - 38:43,Shots on target,2323630,2323130,2323730,40,home,visible,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,38:43:00,20,20
+00123,00123,291,2,1 - 04:47,Shots off target,287346,286846,287446,40,away,visible,2015-10-17 - 17-00 Chelsea 2 - 0 Aston Villa,1,4:47,20,20
+00124,00124,292,11,1 - 06:32,Shots on target,392328,391828,392428,40,home,visible,2015-10-17 - 17-00 Chelsea 2 - 0 Aston Villa,1,6:32,20,20
+00125,00125,293,2,1 - 10:41,Shots on target,641147,640647,641247,40,away,visible,2015-10-17 - 17-00 Chelsea 2 - 0 Aston Villa,1,10:41,20,20
+00126,00126,294,5,1 - 10:42,Shots off target,642846,642346,642946,40,away,visible,2015-10-17 - 17-00 Chelsea 2 - 0 Aston Villa,1,10:42,20,20
+00127,00127,298,1,1 - 31:06,Shots off target,1866341,1865841,1866441,40,away,visible,2015-10-17 - 17-00 Chelsea 2 - 0 Aston Villa,1,31:06:00,20,20
+00128,00128,303,11,1 - 39:09,Shots on target,2349269,2348769,2349369,40,away,visible,2015-10-17 - 17-00 Chelsea 2 - 0 Aston Villa,1,39:09:00,20,20
+00129,00129,306,7,2 - 13:25,Shots off target,805424,804924,805524,40,home,visible,2015-10-17 - 17-00 Chelsea 2 - 0 Aston Villa,2,13:25,20,20
+00130,00130,312,13,2 - 34:53,Shots off target,2093800,2093300,2093900,40,home,visible,2015-10-17 - 17-00 Chelsea 2 - 0 Aston Villa,2,34:53:00,20,20
+00131,00131,313,1,1 - 01:36,Shots off target,96710,96210,96810,40,away,visible,2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,1,1:36,20,20
+00132,00132,316,9,1 - 14:31,Shots off target,871764,871264,871864,40,away,visible,2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,1,14:31,20,20
+00133,00133,321,9,1 - 47:22,Shots on target,2842549,2842049,2842649,40,away,visible,2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,1,47:22:00,20,20
+00134,00134,324,13,2 - 07:03,Shots off target,423140,422640,423240,40,away,visible,2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,2,7:03,20,20
+00135,00135,326,6,2 - 14:20,Shots off target,860846,860346,860946,40,home,visible,2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,2,14:20,20,20
+00136,00136,327,9,2 - 15:48,Shots on target,948559,948059,948659,40,home,visible,2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,2,15:48,20,20
+00137,00137,330,1,2 - 25:55,Shots on target,1555783,1555283,1555883,40,home,visible,2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,2,25:55:00,20,20
+00138,00138,331,4,2 - 28:35,Shots on target,1715411,1714911,1715511,40,away,visible,2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,2,28:35:00,20,20
+00139,00139,333,5,2 - 31:03,Shots on target,1863742,1863242,1863842,40,away,visible,2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,2,31:03:00,20,20
+00140,00140,336,7,2 - 37:06,Shots on target,2226952,2226452,2227052,40,away,visible,2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,2,37:06:00,20,20
+00141,00141,341,3,1 - 11:52,Shots off target,712141,711641,712241,40,home,visible,2015-11-07 - 18-00 Manchester United 2 - 0 West Brom,1,11:52,20,20
+00142,00142,342,4,1 - 15:52,Shots off target,952697,952197,952797,40,home,visible,2015-11-07 - 18-00 Manchester United 2 - 0 West Brom,1,15:52,20,20
+00143,00143,343,2,1 - 28:50,Shots off target,1730117,1729617,1730217,40,home,visible,2015-11-07 - 18-00 Manchester United 2 - 0 West Brom,1,28:50:00,20,20
+00144,00144,344,4,1 - 30:29,Shots on target,1829129,1828629,1829229,40,home,visible,2015-11-07 - 18-00 Manchester United 2 - 0 West Brom,1,30:29:00,20,20
+00145,00145,348,7,2 - 06:26,Shots on target,386665,386165,386765,40,home,visible,2015-11-07 - 18-00 Manchester United 2 - 0 West Brom,2,6:26,20,20
+00146,00146,350,9,2 - 21:50,Shots on target,1310061,1309561,1310161,40,home,visible,2015-11-07 - 18-00 Manchester United 2 - 0 West Brom,2,21:50,20,20
+00147,00147,352,13,2 - 27:22,Shots off target,1642952,1642452,1643052,40,home,visible,2015-11-07 - 18-00 Manchester United 2 - 0 West Brom,2,27:22:00,20,20
+00148,00148,354,9,2 - 31:52,Shots on target,1912151,1911651,1912251,40,home,visible,2015-11-07 - 18-00 Manchester United 2 - 0 West Brom,2,31:52:00,20,20
+00149,00149,355,6,2 - 40:47,Shots off target,2447587,2447087,2447687,40,home,visible,2015-11-07 - 18-00 Manchester United 2 - 0 West Brom,2,40:47:00,20,20
+00150,00150,358,9,1 - 03:50,Shots on target,230964,230464,231064,40,home,visible,2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool,1,3:50,20,20
+00151,00151,360,1,1 - 18:30,Shots off target,1110966,1110466,1111066,40,away,visible,2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool,1,18:30,20,20
+00152,00152,363,1,1 - 31:25,Shots on target,1885669,1885169,1885769,40,away,visible,2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool,1,31:25:00,20,20
+00153,00153,366,5,1 - 34:28,Shots on target,2068346,2067846,2068446,40,away,visible,2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool,1,34:28:00,20,20
+00154,00154,367,11,1 - 35:22,Shots off target,2122083,2121583,2122183,40,away,visible,2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool,1,35:22:00,20,20
+00155,00155,368,8,1 - 43:08,Shots on target,2588465,2587965,2588565,40,home,visible,2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool,1,43:08:00,20,20
+00156,00156,370,12,2 - 05:08,Shots on target,308764,308264,308864,40,away,visible,2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool,2,5:08,20,20
+00157,00157,372,1,2 - 09:21,Shots off target,561132,560632,561232,40,home,visible,2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool,2,9:21,20,20
+00158,00158,373,13,2 - 13:20,Shots on target,800111,799611,800211,40,home,visible,2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool,2,13:20,20,20
+00159,00159,374,4,2 - 14:33,Shots on target,873658,873158,873758,40,away,visible,2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool,2,14:33,20,20
+00160,00160,380,3,2 - 29:50,Shots on target,1790754,1790254,1790854,40,home,visible,2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool,2,29:50:00,20,20
+00161,00161,383,11,2 - 35:39,Shots on target,2139723,2139223,2139823,40,away,visible,2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool,2,35:39:00,20,20
+00162,00162,395,3,1 - 36:41,Shots off target,2201848,2201348,2201948,40,home,visible,2015-11-29 - 15-00 Tottenham 0 - 0 Chelsea,1,36:41:00,20,20
+00163,00163,396,8,1 - 41:28,Shots on target,2488293,2487793,2488393,40,home,visible,2015-11-29 - 15-00 Tottenham 0 - 0 Chelsea,1,41:28:00,20,20
+00164,00164,397,3,1 - 41:51,Shots off target,2511095,2510595,2511195,40,away,visible,2015-11-29 - 15-00 Tottenham 0 - 0 Chelsea,1,41:51:00,20,20
+00165,00165,398,7,1 - 44:01,Shots off target,2641681,2641181,2641781,40,home,visible,2015-11-29 - 15-00 Tottenham 0 - 0 Chelsea,1,44:01:00,20,20
+00166,00166,400,9,2 - 18:09,Shots on target,1089271,1088771,1089371,40,home,visible,2015-11-29 - 15-00 Tottenham 0 - 0 Chelsea,2,18:09,20,20
+00167,00167,404,7,1 - 01:23,Shots on target,83202,82702,83302,40,home,visible,2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth,1,1:23,20,20
+00168,00168,407,9,1 - 14:01,Shots on target,841773,841273,841873,40,away,visible,2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth,1,14:01,20,20
+00169,00169,408,13,1 - 24:05,Shots off target,1445213,1444713,1445313,40,away,visible,2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth,1,24:05:00,20,20
+00170,00170,409,8,1 - 27:12,Shots off target,1632668,1632168,1632768,40,home,visible,2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth,1,27:12:00,20,20
+00171,00171,410,5,1 - 28:49,Shots off target,1729173,1728673,1729273,40,away,visible,2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth,1,28:49:00,20,20
+00172,00172,411,7,1 - 32:39,Shots off target,1959344,1958844,1959444,40,home,visible,2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth,1,32:39:00,20,20
+00173,00173,412,1,1 - 34:16,Shots on target,2056146,2055646,2056246,40,home,visible,2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth,1,34:16:00,20,20
+00174,00174,413,10,1 - 35:04,Shots off target,2104209,2103709,2104309,40,away,visible,2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth,1,35:04:00,20,20
+00175,00175,414,9,1 - 36:40,Shots on target,2200959,2200459,2201059,40,home,visible,2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth,1,36:40:00,20,20
+00176,00176,415,7,1 - 39:07,Shots off target,2347323,2346823,2347423,40,away,visible,2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth,1,39:07:00,20,20
+00177,00177,417,11,1 - 42:37,Shots on target,2557827,2557327,2557927,40,home,visible,2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth,1,42:37:00,20,20
+00178,00178,420,3,2 - 05:52,Shots off target,352068,351568,352168,40,home,visible,2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth,2,5:52,20,20
+00179,00179,424,1,2 - 10:58,Shots on target,658971,658471,659071,40,home,visible,2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth,2,10:58,20,20
+00180,00180,426,8,2 - 27:19,Shots off target,1639083,1638583,1639183,40,home,visible,2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth,2,27:19:00,20,20
+00181,00181,431,3,2 - 38:54,Shots off target,2334578,2334078,2334678,40,away,visible,2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth,2,38:54:00,20,20
+00182,00182,432,3,2 - 42:31,Shots off target,2551964,2551464,2552064,40,home,visible,2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth,2,42:31:00,20,20
+00183,00183,437,11,1 - 09:40,Shots on target,580862,580362,580962,40,away,visible,2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland,1,9:40,20,20
+00184,00184,440,3,1 - 14:03,Shots off target,843625,843125,843725,40,home,visible,2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland,1,14:03,20,20
+00185,00185,442,7,1 - 25:18,Shots on target,1518068,1517568,1518168,40,home,visible,2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland,1,25:18:00,20,20
+00186,00186,452,1,2 - 09:59,Shots off target,599622,599122,599722,40,away,visible,2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland,2,9:59,20,20
+00187,00187,453,7,2 - 10:47,Shots off target,647835,647335,647935,40,away,visible,2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland,2,10:47,20,20
+00188,00188,456,2,2 - 22:46,Shots off target,1366115,1365615,1366215,40,home,visible,2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland,2,22:46,20,20
+00189,00189,458,9,2 - 35:32,Shots off target,2132993,2132493,2133093,40,away,visible,2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland,2,35:32:00,20,20
+00190,00190,459,11,2 - 37:20,Shots on target,2240582,2240082,2240682,40,away,visible,2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland,2,37:20:00,20,20
+00191,00191,460,1,2 - 37:50,Shots off target,2270207,2269707,2270307,40,home,visible,2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland,2,37:50:00,20,20
+00192,00192,465,5,1 - 16:20,Shots on target,980877,980377,980977,40,home,visible,2015-12-26 - 18-00 Manchester City 4 - 1 Sunderland,1,16:20,20,20
+00193,00193,471,3,1 - 29:59,Shots on target,1799419,1798919,1799519,40,home,visible,2015-12-26 - 18-00 Manchester City 4 - 1 Sunderland,1,29:59:00,20,20
+00194,00194,472,7,1 - 34:11,Shots on target,2051515,2051015,2051615,40,away,visible,2015-12-26 - 18-00 Manchester City 4 - 1 Sunderland,1,34:11:00,20,20
+00195,00195,478,12,2 - 13:02,Shots on target,782823,782323,782923,40,away,visible,2015-12-26 - 18-00 Manchester City 4 - 1 Sunderland,2,13:02,20,20
+00196,00196,479,14,2 - 13:04,Shots on target,784217,783717,784317,40,away,visible,2015-12-26 - 18-00 Manchester City 4 - 1 Sunderland,2,13:04,20,20
+00197,00197,484,14,2 - 34:21,Shots off target,2061041,2060541,2061141,40,home,visible,2015-12-26 - 18-00 Manchester City 4 - 1 Sunderland,2,34:21:00,20,20
+00198,00198,486,9,1 - 06:48,Shots off target,408497,407997,408597,40,home,visible,2016-01-03 - 16-30 Crystal Palace 0 - 3 Chelsea,1,6:48,20,20
+00199,00199,487,7,1 - 08:35,Shots off target,515733,515233,515833,40,away,visible,2016-01-03 - 16-30 Crystal Palace 0 - 3 Chelsea,1,8:35,20,20
+00200,00200,490,3,1 - 29:48,Shots off target,1788075,1787575,1788175,40,home,visible,2016-01-03 - 16-30 Crystal Palace 0 - 3 Chelsea,1,29:48:00,20,20
